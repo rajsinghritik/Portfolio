@@ -1,5 +1,11 @@
 # Spotify Clone
-
+   <p align="center">
+  
+  <br>
+  <a style="" href="https://github.com/rajsinghritik">
+  <img src="https://profile-counter.glitch.me/Portfolio/count.svg" />
+  </a>
+</p>
 ## A clone of the Spotify website for practicing web development skills.
 
 ## Technologies used :
